@@ -37,7 +37,7 @@ MySQL (analysis) | Excel (data preparation) | Power BI (dashboard and KPIs)
 ## Files in this Repository
 | File | Description |
 |---|---|
-| [TODO: your SQL file name] | MySQL analysis queries |
+| [TODO: Olist_Ecommerce_Analysis.sql] | MySQL analysis queries |
 | [TODO: your .pbix file name] | Power BI dashboard |
 | [TODO: your Excel file name, if any] | Prepared data |
 | `dashboard.png` | Dashboard screenshot |
