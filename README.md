@@ -2,7 +2,7 @@
 
 An end-to-end analysis of the Olist Brazilian e-commerce dataset: data-quality checks and analysis in MySQL, preparation in Excel, and an interactive Power BI dashboard covering orders, sales, payments, customers, and reviews.
 
-![Dashboard](dashboard.png)
+![Dashboard](E-Commerce dashboard.png)
 
 ## Business Questions
 - How many orders and how much sales revenue did the business generate?
